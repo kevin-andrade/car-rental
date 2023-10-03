@@ -5,4 +5,4 @@
 ![umlclass](/img/Entities.png/)
 
 #### Services
-![umlclass](/img/Services.png/)
+![umlclass](/img/services.png/)
